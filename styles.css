@@ -1,4 +1,8 @@
 body {
-  background-color: #f7f7d2;
+  background-color: #f7f6ea;
   font-family: roboto, sans-serif;
+}
+
+td {
+  font-size: 20px;
 }
