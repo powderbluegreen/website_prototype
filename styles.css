@@ -6,11 +6,11 @@ html {
 
 body {
   background-color: #f6f9de;
-  font-family: prata, sans-serif;
+  font-family: jura, sans-serif;
 }
 
 td {
-  font-size: 25px;
+  font-size: 20px;
 }
 
 
@@ -37,6 +37,7 @@ td {
 }
 
 #horizontal_nav h1 {
-  font-size: 30px;
-  text-decoration: underline;
+  font-size: 40px;
+  /*text-decoration: underline;*/
+  padding-bottom: 0px;
 }
